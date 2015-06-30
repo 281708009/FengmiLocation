@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6629B8B1-C3B3-4BB8-AFD1-1ACB26CA2196</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8DAD77DB82A0876769C56613CC3A0215AF67664E</key>
+		<string>https://github.com/281708009/FengmiLocation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestDemo/TestDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8DAD77DB82A0876769C56613CC3A0215AF67664E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/281708009/FengmiLocation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8DAD77DB82A0876769C56613CC3A0215AF67664E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8DAD77DB82A0876769C56613CC3A0215AF67664E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>F</string>
+		</dict>
+	</array>
+</dict>
+</plist>
